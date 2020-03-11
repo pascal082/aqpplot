@@ -1,0 +1,12 @@
+Package: aqpplot
+Type: Package
+Title: Soil Plotting Functionality
+Version: 1.0
+Date: 2019-12-01
+Author: Pascal Omondiagbe
+Maintainer: Pascal <omondiagbep@landcareresearch.co.nz>
+Description:  soil plotting functionality which uses the aqp package
+License: Apache License 3.0
+LazyData: false
+Depends: R (>= 3.1)
+Imports: aqp, GSIF
